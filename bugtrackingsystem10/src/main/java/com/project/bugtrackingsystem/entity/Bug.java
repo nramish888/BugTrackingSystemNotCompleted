@@ -5,7 +5,7 @@ import javax.persistence.*;
 
 import com.project.bugtrackingsystem.util.BugStatus;
 import com.project.bugtrackingsystem.util.Severity;
-//hgfchgcvhgcv
+
 @Entity
 @Table(name = "bugs")
 public class Bug {

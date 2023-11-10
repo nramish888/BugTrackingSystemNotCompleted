@@ -34,7 +34,7 @@ public class User {
     
     @ManyToMany(mappedBy = "users")
     private List<Project> projects;
-    // Constructors
+    // This is No Arug Constructors
     public User() {
     }
 
